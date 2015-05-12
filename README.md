@@ -6,4 +6,4 @@
 
 ##Uncommon Knowledge
 
-* [Brand Guidelines](http://scott-mcnab.github.io/AAD117/uncommonknowledge/index.html)
+* [Brand Guidelines](http://scott-mcnab.github.io/AAD117/uk/index.html)
